@@ -1,3 +1,7 @@
+# Overview
+
+This is a fork of Cesar Alvernaz's "Alphavantage MCP server".
+
 # Alphavantage MCP Server
 
 A MCP server for the stock market data API, Alphavantage API.
