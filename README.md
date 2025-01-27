@@ -1,6 +1,6 @@
 # Overview
 
-This is a fork of Cesar Alvernaz's "Alphavantage MCP server".
+This is a fork of Cesar Alvernaz's "Alphavantage MCP server". It fixes a few bugs which were preventing the server from working correctly.
 
 # Alphavantage MCP Server
 
