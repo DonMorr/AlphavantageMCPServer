@@ -1,0 +1,6 @@
+src/mcp_server_alphavantage/__pycache__/
+uv.lock
+.venv
+.DS_Store
+src/.DS_Store
+src/mcp_server_alphavantage/.DS_Store
